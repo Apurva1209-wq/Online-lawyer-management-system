@@ -82,7 +82,7 @@ Online-lawyer-management-system/
 
 👩‍💻 Author
 Apurva Patil
-IMCA Student @ KCE, Jalgaon
+IMCA Student @ KCE'S IMR, Jalgaon
 📫 Portfolio
 📧 patilapurva1209@gmail.com
 
